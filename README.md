@@ -1,4 +1,4 @@
-# terry_zh_music
+# FlutterMusic
 
 基于Flutter的仿网易云demo应用。
 
